@@ -1,0 +1,8 @@
+5
+5
+1 2 1
+2 3 6
+3 5 5
+2 5 4 
+2 4 2
+//There is no Hamiltonian path in this graph!
